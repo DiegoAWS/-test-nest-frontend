@@ -1,5 +1,6 @@
-import Head from 'next/head'
-
+import Head from "next/head";
+import { Button } from "reactstrap";
+import MyNavbar from "../components/Navbar";
 export default function Home() {
   return (
     <div>
@@ -8,12 +9,10 @@ export default function Home() {
         <meta name="description" content="Code Test Nest" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-     <div>
-       Hello World
-     </div>
-
-      
+      <MyNavbar />
+      <div>
+        <Button>test</Button>
+      </div>
     </div>
-  )
+  );
 }

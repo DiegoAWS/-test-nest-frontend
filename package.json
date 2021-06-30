@@ -15,7 +15,9 @@
     "react": "17.0.2",
     "react-data-table-component": "^7.0.0-rc2",
     "react-dom": "17.0.2",
-    "reactstrap": "^8.9.0"
+    "reactstrap": "^8.9.0",
+    "styled-components": "^5.3.0",
+    "swr": "^0.5.6"
   },
   "devDependencies": {
     "eslint": "7.29.0",

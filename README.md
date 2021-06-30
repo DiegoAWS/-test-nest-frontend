@@ -1,5 +1,7 @@
 # Test NEST Frontend for IVANJP
 
+Deployed to [vercel](https://code-test-next.vercel.app/)
+
 ## Technical Requirements
 
 Show a list of students with the following information:
@@ -10,7 +12,7 @@ Show a list of students with the following information:
 - Age
 - Grade (1st, 2nd, 3rd, etc...)
 
-### Requirements:
+### Requirements
 
 - The user should be able to add a new student
 - The user should be able to edit the an existing student record
