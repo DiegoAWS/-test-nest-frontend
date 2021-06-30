@@ -26,7 +26,7 @@ Use Express
 CRUD for students
 MongoDB/MySQL/sqllite
 
-![Example of UI](public/src/ui-requirement.png)
+![Example of UI](public/img/ui-requirement.png)
 
 ## UI Requirement
 
